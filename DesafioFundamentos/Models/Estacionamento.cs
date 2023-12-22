@@ -32,6 +32,7 @@ namespace DesafioFundamentos.Models
             
             // Pedir para o usuário digitar a placa e armazenar na variável placa
             // *IMPLEMENTE AQUI*
+            
             string placa = Console.ReadLine();
 
             // Verifica se o veículo existe
